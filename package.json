@@ -12,6 +12,10 @@
     "email": "contact@codesweetly.com"
   },
   "scripts": {
+    "build": "rm -r dist && npm run build:esm && npm run build:cjs && npm run copy-files",
+    "build:esm": "tsc",
+    "build:cjs": "tsc --module commonjs --outDir dist/cjs",
+    "copy-files": "cp ./src/index.css dist/",
     "test": "jest --config jest.config.ts"
   },
   "keywords": [],
