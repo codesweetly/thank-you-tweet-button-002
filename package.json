@@ -21,6 +21,9 @@
     "copy-files": "cp ./src/index.css dist/",
     "test": "jest --config jest.config.ts"
   },
+  "files": [
+    "./dist"
+  ],
   "keywords": [
     "tweet",
     "twitter",
