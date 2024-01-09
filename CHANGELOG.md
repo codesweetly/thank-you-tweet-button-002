@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.0.2](https://github.com/codesweetly/thank-you-tweet-button-002/compare/v3.0.1...v3.0.2) (2024-01-09)
+
+
+### 🏠 Chores
+
+* **github:** configure release-it to auto-generate project's github releases ([71f29d3](https://github.com/codesweetly/thank-you-tweet-button-002/commit/71f29d3572c9fbdd1744d37c8d521eb6de6550b6))
+
+
+### 🐛 Bug Fix
+
+* **tweetbutton:** change tweet text to message ([0b31aac](https://github.com/codesweetly/thank-you-tweet-button-002/commit/0b31aac9fbfe9a9f01f0db9013f21259a1f6f2a5))
+
 ## [3.0.1](https://github.com/codesweetly/thank-you-tweet-button-002/compare/v3.0.0...v3.0.1) (2024-01-09)
 
 
