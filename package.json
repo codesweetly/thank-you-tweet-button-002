@@ -12,6 +12,8 @@
     "email": "contact@codesweetly.com"
   },
   "scripts": {
+    "build": "rm -r dist && babel src -d dist --ignore src/**/*.test.jsx && npm run copy-files",
+    "copy-files": "cp ./src/index.css dist/",
     "test": "jest --config jest.config.json"
   },
   "keywords": [],
