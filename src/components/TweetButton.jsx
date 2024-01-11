@@ -25,7 +25,7 @@ export function TweetButton(props) {
   return props.rating && props.bestNPMPackage ? (
     <section className="tweet-btn-container">
       <a className="tweet-button" href={tweetURL} target="_blank">
-        Send a thank you tweet
+        Post a thank you tweet
       </a>
     </section>
   ) : (
