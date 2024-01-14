@@ -20,7 +20,7 @@ export function TweetButton(props) {
     props.rating
   }-star+rating!+${generateStarIcons(
     props.rating
-  )}+%0A%0ACreating%20NPM%20Package:%20React%20JavaScript%20Guide%0A%0Ahttps%3A%2F%2Famzn.to/3R1M0XU`;
+  )}+%0A%0ACreating%20NPM%20Package:%20React%20JavaScript%20Guide%0A%0Ahttps%3A%2F%2Famzn.to/4aUJ3Qg`;
 
   return props.rating && props.bestNPMPackage ? (
     <section className="tweet-btn-container">
