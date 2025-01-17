@@ -2,7 +2,7 @@
 >
 > This package is a project in the [Creating NPM Package book](https://amzn.to/4aUJ3Qg).
 
-# Thank You Tweet Button 003
+# Thank You Tweet Button 002
 
 An easy-to-use tweet button for saying thank you to @oluwatobiss.
 
@@ -18,7 +18,7 @@ https://codesweetly.com
 
 ## Installation
 
-This section shows how to install the Thank You Tweet Button 003 package.
+This section shows how to install the Thank You Tweet Button 002 package.
 
 ### Using npm
 
