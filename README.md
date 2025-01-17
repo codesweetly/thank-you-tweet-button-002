@@ -23,25 +23,25 @@ This section shows how to install the Thank You Tweet Button 003 package.
 ### Using npm
 
 ```
-npm install thank-you-tweet-button-003
+npm install thank-you-tweet-button-002
 ```
 
 ### Using yarn
 
 ```
-yarn add thank-you-tweet-button-003
+yarn add thank-you-tweet-button-002
 ```
 
 ### Using pnpm
 
 ```
-pnpm add thank-you-tweet-button-003
+pnpm add thank-you-tweet-button-002
 ```
 
 ## Usage
 
 ```js
-import { TweetButton } from "thank-you-tweet-button-003";
+import { TweetButton } from "thank-you-tweet-button-002";
 
 function App() {
   return <TweetButton />;
