@@ -1,5 +1,10 @@
 # Changelog
 
+## <small>3.0.5 (2025-01-18)</small>
+
+* chore: build before committing ([e7b8778](https://github.com/codesweetly/thank-you-tweet-button-002/commit/e7b8778))
+* docs: add release it to dev dependencies ([6733b53](https://github.com/codesweetly/thank-you-tweet-button-002/commit/6733b53))
+
 ## <small>3.0.4 (2025-01-18)</small>
 
 * chore: change project name from thank-you-tweet-button-003 to thank-you-tweet-button-002 ([b1e54cf](https://github.com/codesweetly/thank-you-tweet-button-002/commit/b1e54cf))
