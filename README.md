@@ -58,3 +58,4 @@ function App() {
 - [Jest](https://github.com/jestjs/jest)
 - [Jest Transform CSS](https://github.com/dferber90/jest-transform-css)
 - [React Testing Library](https://github.com/testing-library/react-testing-library)
+- [Release It](https://github.com/release-it/release-it)
